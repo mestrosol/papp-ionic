@@ -1,0 +1,8 @@
+{
+  "name": "ionProperty",
+  "app_id": "68bf4416",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
